@@ -1,0 +1,14 @@
+.FormControl {
+  width: 40%;
+  margin-bottom: 30px !important;
+}
+
+.Grid {
+  justify-content: center;
+}
+
+@media (max-width: 770px) {
+  .FormControl {
+    width: 80%;
+  }
+}

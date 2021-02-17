@@ -1,0 +1,12 @@
+.Container {
+  display: flex;
+  justify-content: center;
+  width: 85%;
+  margin-bottom: 40px;
+}
+
+@media (max-width: 770px) {
+  .Container {
+    width: 100%;
+  }
+}
